@@ -14,7 +14,7 @@ class HourlyForecastItem extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Card(
-      elevation: 6,
+      elevation: 5,
       child: Container(
         width: 100,
         padding: const EdgeInsets.all(8.0),
