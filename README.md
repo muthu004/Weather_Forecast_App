@@ -1,6 +1,6 @@
-# weather_app
+# Weather Forecast App
 
-A new Flutter project.
+My first flutter project using API integration to fetch real time data from web to make an app  which shows the weather details according to time.
 
 ## Getting Started
 
